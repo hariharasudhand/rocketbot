@@ -3,7 +3,7 @@
 * Before Running the **MainBot**, Configure the variable {vConfigLocation} in the **Converter bot** To the location of the excel file in the PDF2IMG/config.xlsx.
 
 ## Properties in the Excel.
-| First Header                      | Second Header                                             |
+| Property                          | Description                                               |
 | --------------------------------- | --------------------------------------------------------- |
 | pdf.folder.location               | The pdf files input location.                             |
 | pdf.folder.scan.interval          | The time interval in seconds.                             |
