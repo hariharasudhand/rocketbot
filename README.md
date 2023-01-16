@@ -1,2 +1,5 @@
 # rocketbot
-Sample RocketBot Bots , Public workspace
+
+Rocket Bot - Public and Private Bots Examples and More.
+
+
