@@ -1,6 +1,12 @@
 ## Prerequisite
 
 * Before Running the **MainBot**, Configure the variable {vConfigLocation} in the **Converter bot** To the location of the excel file in the PDF2IMG/config.xlsx.
+## Dependencies
+   PyMuPDF==1.16.7 
+* Install "PyMuPDF==1.16.7" in the "Rocketbot/modules/libs" folder with this command 
+``` pip install PyMuPDF==1.16.7 -t ./ ```
+* Note: Use python 3.6.8 32bit version as Rocketbot runs on this python version.
+
 
 ## Properties in the Excel.
 | Property                          | Description                                               |
