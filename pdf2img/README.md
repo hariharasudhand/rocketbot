@@ -19,6 +19,4 @@
 
 
 * Refer the Swimlane diagram given below for more information about the bot flow. 
-![swimlanes-2151524506aa872531189a4ba957501d](https://user-images.githubusercontent.com/108778720/212633207-09f35977-5726-4654-ad57-28420463692a.png)
-
-
+![swimlanes-ad26c5e17206114a376f724862df8eb3](https://user-images.githubusercontent.com/108778720/213090852-23e48d6f-a730-46a2-965f-ea3f211377f4.png)
