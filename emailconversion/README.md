@@ -1,7 +1,7 @@
 ## Prerequisite
 
 * Clone this repository into C:/Work/
-* Load the bot from '''C:\Work\emailconversion\emailconversion.db'''.
+* Load the bot db file from '''C:\Work\emailconversion\emailconversion.db'''.
 * There will be 2 bots "Main_Bot" and "Email_Conversion".
 * For a quick demo we can also just run the "Email_Conversion" bot. 
 
